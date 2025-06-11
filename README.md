@@ -1,6 +1,10 @@
-Fetching all the data from Database and show them in a table (CRUD)
+![10 (1)](https://github.com/user-attachments/assets/8beb4aea-c655-4f0d-8a31-07144197476b)
 
-● Fetch data from Database
 
-● Display fetched data in a table
-![]((https://github.com/user-attachments/assets/0dcb59a0-8dca-42e0-bd1f-2ebd0f70f8c7.png =250x250)
+
+# Fetching all the data from Database and show them in a table (CRUD)
+
+## ● Fetch data from Database
+
+## ● Display fetched data in a table
+
