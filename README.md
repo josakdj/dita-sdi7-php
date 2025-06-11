@@ -6,7 +6,7 @@
 
 
 
-<code style="color : cyan"> Fetching all the data from Database and show them in a table (CRUD)</code>
+## Fetching all the data from Database and show them in a table (CRUD)
 
 ### ● Fetch data from Database
 
